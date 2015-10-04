@@ -1,0 +1,6 @@
+platform:ios, '8.0'
+pod "SDWebImage", '~> 3.7.3'
+pod "UMengSocial", '~> 4.2.3'
+pod 'AFNetworking', '~> 2.6.0'
+pod 'FMDB', '~> 2.5'
+ pod 'GPUImage', '~> 0.1.7'
